@@ -20,10 +20,8 @@ The CloudInit settings are default configs for your new container(s) on coreOS
 
 ScreenCasts
 
-Containers on Xen GUI
 ![xen-container-mananagent](https://raw.githubusercontent.com/AysadKozanoglu/xenServer_container_management/master/pictures/xen_container_coreOS.png)
 
-Benchmark container
 ![xen-container-benchmark](https://raw.githubusercontent.com/AysadKozanoglu/xenServer_container_management/master/pictures/benchmark_xen_container.png)
 
 #### some words
