@@ -7,7 +7,7 @@ supporting Container (like Docker) nativly on XenServer
 
 3. Install the XenServer xscontainer.iso plugin to enable Container management
 <pre>
-xe-install-supplemental-pack  XenServer-<VERSION>-xscontainer.iso
+xe-install-supplemental-pack  XenServer-VERSION-xscontainer.iso
 </pre>
 
 ##### Final Step
